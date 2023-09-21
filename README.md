@@ -3,7 +3,7 @@
 ![threads](https://github.com/konarksharma2001/threads_app/assets/87274294/7959c25f-3082-4219-a6d8-d577b246c235)
 
 
-Threads is an advanced web application developed with an impressive stack of technologies, including TypeScript, React, MongoDB, Svix, Clerk for user authentication, and Zod for form validation. This project serves as a testament to your mastery of Next.js 13.4, featuring Server-Side Rendering (SSR) for optimal performance and SEO. Threads also showcases your proficiency in handling intricate schemas, managing multiple data sources, and crafting elegant layouts with the power of TailwindCSS. Here's an in-depth look at the key features and technologies utilized in Threads:
+Threads is an advanced web application developed with an impressive stack of technologies, including TypeScript, React, MongoDB, Svix, Clerk for user authentication, and Zod for form validation. This project features Server-Side Rendering (SSR) for optimal performance and SEO. Threads also showcase handling of intricate schemas, managing multiple data sources, and crafting elegant layouts with the power of TailwindCSS. Here's an in-depth look at the key features and technologies utilized in Threads:
 
 ## Features
 * Server-Side Rendering (SSR): Threads leverages Next.js 13.4 to provide efficient server-side rendering, enhancing both performance and search engine optimization (SEO).
