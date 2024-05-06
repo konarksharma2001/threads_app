@@ -34,6 +34,9 @@ Threads is an advanced web application developed with an impressive stack of tec
 
 * Solid Application Architecture: Threads is built on a well-structured application architecture, reflecting your commitment to crafting a robust and scalable application.
 
+## Entity Relationship Diagram
+![Threads ER Table](https://github.com/konarksharma2001/threads_app/assets/87274294/495ca482-0091-4dde-a141-b7e8e067e566)
+
 ## Technologies Used
 * TypeScript
 * React
